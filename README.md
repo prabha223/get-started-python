@@ -4,7 +4,7 @@ To get started, we'll take you through a sample Python Flask app, help you set u
 
 The following instructions are for deploying the application as a Cloud Foundry application. To deploy as a container to **IBM Cloud Kubernetes Service** instead, [see README-kubernetes.md](README-kubernetes.md)
 
-## Test checkin
+## Test checkin sec time
 ## Prerequisites
 
 You'll need the following:
